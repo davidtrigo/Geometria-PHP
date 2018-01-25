@@ -1,7 +1,7 @@
 # Geometria-PHP
 
 
-Proyecto que calcula de la área y el perimetro de las siguientes figuras:
+Proyecto que calcula la área y el perímetro de las siguientes figuras:
 
 * Cuadrado
 * Triángulo
@@ -9,4 +9,4 @@ Proyecto que calcula de la área y el perimetro de las siguientes figuras:
 * Círculo
 
 
-Proyecto realizado en el curso de Desarrollo de Aplicaciones con tecnología web
+Proyecto realizado como ejercicio en el curso de Desarrollo de Aplicaciones con tecnología web
